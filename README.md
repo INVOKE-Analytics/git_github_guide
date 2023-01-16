@@ -1,5 +1,5 @@
-# git_github_guide
-Materials for INVOKE on-boarding guideline lesson.
+# On-boarding Week: Git and Github
+- An introduction to Git and Github theoritically and hands-on.
 
 # Steps:
 1. Git clone this repo
