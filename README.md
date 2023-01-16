@@ -1,4 +1,4 @@
-# On-boarding Week: Git and Github
+# On-boarding Guide: Git and Github
 - An introduction to Git and Github theoritically and hands-on.
 
 # Steps:
