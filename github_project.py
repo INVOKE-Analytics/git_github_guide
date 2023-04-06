@@ -12,6 +12,6 @@ def full_information(name, age):
 name = input("What is your name?") 
 age = input("How old are you?") 
 full_information(name, age) 
-print('hello')
-print ('123')
+print('test')
+
 
