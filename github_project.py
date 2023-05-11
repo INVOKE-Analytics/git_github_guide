@@ -15,3 +15,4 @@ age = input("How old are you?")
 full_information(name, age)
 print("Ammar")
 print("testing")
+
