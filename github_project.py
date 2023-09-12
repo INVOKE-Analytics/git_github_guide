@@ -16,4 +16,5 @@ full_information(name, age)
 print("Ammar")
 print("testing")
 print ("Hello")
+print ("test")
 
